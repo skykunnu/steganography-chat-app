@@ -23,6 +23,7 @@ npm run build
 
 ## Authors
 1. Shyamansh Sharma
+2. Shikhar Khandelwal
 
 
 Further improvements and suggestions are welcomed.
